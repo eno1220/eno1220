@@ -1,6 +1,10 @@
-# eno1220👋
+# eno1220
+
+
 
 ## About me
+
+1st grader in Japanese high school 
 
 ## Link
 Atcoder : https://atcoder.jp/users/eno1220
