@@ -6,6 +6,8 @@
 
 1st grader in Japanese high school 
 
+I'm learning about computer programming at N予備校(nnn.ed.nico).
+
 ## Link
 Atcoder : https://atcoder.jp/users/eno1220
 <!--
