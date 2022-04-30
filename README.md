@@ -4,12 +4,10 @@
 
 ## About me
 
-1st grader in Japanese high school 
+2st grader in Japanese high school. 
 
-I'm learning about computer programming at N予備校(nnn.ed.nico).
+I'm interested in low-layer-programming.
 
-## Link
-Atcoder : https://atcoder.jp/users/eno1220
 <!--
 **eno1220/eno1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
